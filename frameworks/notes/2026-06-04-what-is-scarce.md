@@ -2,32 +2,65 @@
 
 Date: 2026-06-04
 
-Original hypothesis:
+## Observation
+
+My original hypothesis was:
 
 As intelligence becomes abundant, coordination becomes scarce.
 
-Alternative possibilities:
+After additional research, I am less certain.
 
-- Time
-- Attention
-- Trust
-- Coordination
+Perhaps coordination is not the scarcity.
 
-Observation:
+Perhaps it is the response to another scarcity.
 
-Most enterprise AI failures appear to involve:
+## Candidate Scarcities
 
-- governance
-- permissions
-- ownership
-- memory
-- security
-- evaluation
+### Time
 
-These may all be manifestations of coordination problems.
+AI can generate:
 
-Open Question:
+* code
+* analysis
+* plans
+* recommendations
 
-Is coordination the root scarcity?
+faster than humans can review, approve, and implement them.
 
-Or is coordination itself an attempt to manage some deeper scarcity?
+### Attention
+
+Information is abundant.
+
+Intelligence is becoming abundant.
+
+Attention remains limited.
+
+The challenge may not be generating options.
+
+The challenge may be deciding what matters.
+
+### Trust
+
+An agent can act.
+
+That does not mean it should.
+
+Organizations may be constrained by trust more than capability.
+
+### Coordination
+
+Organizations still struggle with:
+
+* alignment
+* ownership
+* governance
+* prioritization
+* decision making
+
+These challenges exist regardless of model capability.
+
+## Working Question
+
+As intelligence becomes abundant, what actually becomes scarce?
+
+I do not know yet.
