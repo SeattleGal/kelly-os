@@ -6,47 +6,175 @@ Date: 2026-06-04
 
 Most notes in this repository support the Coordination Layer Hypothesis.
 
-I need evidence that challenges it.
+This note exists to challenge it.
 
-## Ways The Hypothesis Could Be Wrong
+The goal is not to defend the framework.
 
-### Models Continue To Matter Most
+The goal is to identify the conditions under which it fails.
 
-Future model improvements may create more value than coordination improvements.
+---
 
-If so, the primary bottleneck remains intelligence.
+## Current Hypothesis
 
-### Coordination Becomes Automated
+As intelligence becomes abundant, coordination becomes the dominant organizational constraint.
 
-Future systems may solve coordination automatically.
+Organizations that solve coordination problems will capture more value from AI than organizations that simply deploy better models.
 
-Metadata, governance, and trust may become implementation details rather than strategic advantages.
+Confidence: Moderate
 
-### Trust Is The Real Scarcity
+---
+
+## Challenge 1: Models Continue To Matter Most
+
+Perhaps I am underestimating the importance of model capability.
+
+A frontier model with minimal coordination infrastructure may outperform a weaker model operating within a highly coordinated system.
+
+This may be especially true for:
+
+* research
+* software development
+* scientific discovery
+* creative work
+
+Open Question:
+
+Are we actually in a coordination-constrained world yet, or are models still improving fast enough that intelligence remains the primary bottleneck?
+
+Evidence Needed:
+
+Examples where model improvements create more value than governance, memory, identity, or coordination improvements.
+
+---
+
+## Challenge 2: Coordination Becomes Commoditized
+
+Perhaps coordination is important.
+
+But perhaps it eventually becomes automated.
+
+Future systems may automatically provide:
+
+* identity
+* governance
+* memory
+* permissions
+* routing
+* observability
+
+If this happens, coordination remains necessary but may no longer be a strategic advantage.
+
+Open Question:
+
+Is coordination a long-term bottleneck or a temporary one?
+
+Evidence Needed:
+
+Signs that coordination infrastructure is becoming standardized and invisible.
+
+---
+
+## Challenge 3: Trust Is The Real Scarcity
 
 Perhaps coordination is not the bottleneck.
 
 Perhaps trust is.
 
-Many coordination failures may actually be trust failures.
+Organizations may know how to coordinate AI systems but still refuse to rely on them.
 
-### Attention Is The Real Scarcity
+Examples:
 
-AI may create more information than humans can process.
+* legal concerns
+* compliance concerns
+* accountability concerns
+* cultural resistance
 
-In that world, attention becomes the limiting resource.
+The challenge may be psychological and organizational rather than technical.
 
-## What Evidence Would Change My Mind?
+Open Question:
 
-Examples where:
+Can governance, metadata, and observability create trust?
 
-* AI succeeds without strong coordination systems.
-* AI fails despite strong coordination systems.
-* Model improvements create more value than operational improvements.
-* Trust consistently emerges as the dominant constraint.
+Or is trust fundamentally a human problem?
+
+Evidence Needed:
+
+Examples where technically sound systems fail due to lack of organizational trust.
+
+---
+
+## Challenge 4: Attention Is The Real Scarcity
+
+AI may dramatically increase the volume of available information and analysis.
+
+The bottleneck may not be coordination.
+
+The bottleneck may be deciding what deserves attention.
+
+If this is true, the most valuable systems will:
+
+* filter
+* prioritize
+* summarize
+* recommend
+
+rather than coordinate.
+
+Open Question:
+
+Does AI increase the value of coordination or the value of attention management?
+
+Evidence Needed:
+
+Examples where organizations struggle primarily because they cannot process available information.
+
+---
+
+## Challenge 5: Scope Matters
+
+The hypothesis may only apply under specific conditions.
+
+Examples:
+
+* Large organizations
+* Regulated industries
+* Multi-agent systems
+* High-risk environments
+
+Many startups are successfully deploying AI today with little formal governance.
+
+That does not necessarily invalidate the hypothesis.
+
+It may simply define its boundaries.
+
+Open Question:
+
+At what scale, complexity, or risk level does coordination become the bottleneck?
+
+Evidence Needed:
+
+Examples across different company sizes, industries, and risk profiles.
+
+---
+
+## What Would Change My Mind?
+
+The framework would weaken if I consistently find evidence that:
+
+* model improvements create more value than coordination improvements
+* organizations succeed without meaningful coordination infrastructure
+* trust emerges as the primary constraint independent of coordination
+* attention management creates more value than coordination systems
+* coordination becomes fully commoditized
+
+---
 
 ## Current Position
 
 The Coordination Layer Hypothesis remains plausible.
 
-It is not yet proven.
+It is not proven.
+
+The purpose of this repository is not to defend the hypothesis.
+
+The purpose is to test it.
